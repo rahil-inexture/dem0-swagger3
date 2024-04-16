@@ -1,1 +1,1 @@
-# dem0-swagger3
+# spring-core
